@@ -1,0 +1,15 @@
+.home-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.home-page h1{
+    font-size: 3rem;
+    color: green;
+    text-align: center;
+    margin-bottom: 20px;
+}
